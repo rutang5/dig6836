@@ -1,7 +1,7 @@
-# DIG 6836: Design & Development of Texts and Technology
+# DIG 6836: Humanistic Data Analysis
 
-- **Instructor:** Dr. Anastasia Salter
-- **Email:** anastasia@ucf.edu
+- **Instructor:** Dr. Rudy McDaniel
+- **Email:** rudy@ucf.edu
 - **Office:** Via Zoom; Monday 2:00 - 5:00 PM
 - **Course Meeting:** Monday 6:00 - 7:50 PM
   
@@ -9,7 +9,7 @@
 
 ## Contents
 
-- [DIG 6836: Design & Development of Texts and Technology](#dig-6836-design--development-of-texts-and-technology)
+- [DIG 6836: Humanistic Data Analysis](#dig-6836-design--development-of-texts-and-technology)
   - [Contents](#contents)
   - [Course Description](#course-description)
   - [Course Objectives](#course-objectives)
@@ -34,11 +34,10 @@
     - [Week Fifteen: Design Futures (Monday, November 29, 2021)](#week-fifteen-design-futures-monday-november-29-2021)
     - [Final Exam/Reflection (Monday, December 6, 2021)](#final-examreflection-monday-december-6-2021)
   - [General Policies](#general-policies)
-    - [COVID-19 Statement for Fall 2021](#covid-19-statement-for-fall-2021)
+    - [COVID-19 Statement for Fall 2023](#covid-19-statement-for-fall-2023)
     - [Academic Integrity](#academic-integrity)
     - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
     - [Course Accessibility Statement](#course-accessibility-statement)
-    - [Land Acknowledgement Statement](#land-acknowledgement-statement)
     - [Campus Safety Statement](#campus-safety-statement)
     - [Deployed Active Duty Military Students](#deployed-active-duty-military-students)
     - [Authorized Events and Religious Observances](#authorized-events-and-religious-observances)
@@ -196,7 +195,6 @@ Drawing on models of GIS and spatial humanities, we'll explore the potential for
 
 While understandably subject to critique, computational methods for attributing authorship and finding patterns in writing styles have attracted a lot of attention. We'll explore these mechanisms, with attention to the theorizing of "voice."
 
-- *Race After Technology*: Introduction + Chapter 1
 - *Humanities Data Analysis*: Chapter 8
 - *Digital Humanities Coursebook*: Chapter 9
 - **Coding Exercise Eleven: Principal Component Analysis**
@@ -205,7 +203,6 @@ While understandably subject to critique, computational methods for attributing 
 
 As we continue to critique and explore distant reading, we will engage with methods of topic modeling, and consider the potential and challenges of integrating these approaches alongside humanities approaches.
 
-- *Race After Technology*: Chapter 2
 - *Humanities Data Analysis*: Chapter 9
 - *Digital Humanities Coursebook*: Chapter 10
 - **Coding Exercise Twelve: Texts, Three Ways**
@@ -214,7 +211,6 @@ As we continue to critique and explore distant reading, we will engage with meth
 
 Drawing on the models and questions from our texts, we'll consider the approach of "good enough," and discuss how we can bring these lessons to our projects, particularly in terms of allowing for failure and iteration. We'll also explore methods for translating knowledge from Python to other programming languages.
 
-- *Race After Technology*: Chapter 3
 - *Humanities Data Analysis*: Epilogue
 - *Digital Humanities Coursebook*: Chapter 11
 - **Coding Exercise Thirteen: Interface**
@@ -223,7 +219,6 @@ Drawing on the models and questions from our texts, we'll consider the approach 
 
 Using both *Race After Technology* and the work of other scholars from our core list, we will critique the methods we've put into place, considering how we might reshape and reimagine our technologies and code in light of these challenges.
 
-- *Race After Technology*: Chapter 4
 - *Digital Humanities Coursebook*: Chapter 12
 - **Coding Exercise Fourteen: Design**
 
@@ -231,7 +226,6 @@ Using both *Race After Technology* and the work of other scholars from our core 
 
 During the final project showcase, we will embrace both the successes and failures of the process of integrating Python-driven methods and tools into our scholarship, and brainstorm next steps.
 
-- *Race After Technology*: Chapter 5
 - *Digital Humanities Coursebook*: Coda
 - **Coding Exercise Fourteen Due**
 
@@ -241,13 +235,9 @@ During the final project showcase, we will embrace both the successes and failur
 
 ## General Policies
 
-### COVID-19 Statement for Fall 2021
-
-**Statement Regarding Masks in Classrooms** UCF expects that all members of our campus community who are able to do so get vaccinated, and we expect all members of our campus community to wear masks indoors, in line with the latest CDC guidelines. Masks are required in approved clinical or health care settings.
+### COVID-19 Statement for Fall 2023
 
 **Notifications in Case of Changes to Course Modality** If the instructor falls ill during the semester, there may be temporary changes to this course, including having a backup instructor take over the course or going remote for a short time. Please look for announcements or mail in Webcourses@UCF or Knights email for any temporary alterations to this course.
-
-**COVID-19 and Illness Notification** Students who believe they may have been exposed to COVID-19 or who test positive must contact UCF Student Health Services (407-823-2509) so proper contact tracing procedures can take place. Students should not come to campus if they are ill, are experiencing any symptoms of COVID-19 or have tested positive for COVID-19.
 
 Students should contact their instructor(s) as soon as possible if they miss class for any illness to discuss reasonable adjustments that might need to be made. When possible, students should contact their instructor(s) before missing class.
 
@@ -283,10 +273,6 @@ Students should also familiarize themselves with the procedures for academic mis
 This course is built with universal design for learning principles in mind: if you encounter challenges with any of the course materials, assignments, platforms, or requirements, please reach out for assistance, and know that additional support is always available regardles of documentation. If changes in course modality occur and you require additional accomodations, please reach out as soon as possible.
 
 Additionally, the University of Central Florida is committed to providing access and inclusion for all persons with disabilities. Students with disabilities who need access to course content due to course design limitations should contact the professor as soon as possible. Students should also connect with [Student Accessibility Services (SAS)](http://sas.sdes.ucf.edu/) (Ferrell Commons 185, sas@ucf.edu, phone 407-823-2371). For students connected with SAS, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential course access and accommodations that might be necessary and reasonable. Determining reasonable access and accommodations requires consideration of the course design, course learning objectives and the individual academic and course barriers experienced by the student. Further conversation with SAS, faculty and the student may be warranted to ensure an accessible course experience.
-
-### Land Acknowledgement Statement
-
-The UCF Department of English acknowledges that our main campus stands on the traditional territories of the Seminole and Timucua peoples, and that other Native American traditional territories exist throughout Florida where our regional campuses are located. We collectively recognize their continuing connection to the land, water, and air and pay respect to their elders past, present, and emerging. We recognize the continuing consequences of colonialism on Indigenous peoples and their resilience in the face of colonial and state sponsored violence, and we fully endorse Indigenous Sovereignty.
 
 ### Campus Safety Statement
 
