@@ -3,7 +3,9 @@
 - **Instructor:** Dr. Rudy McDaniel
 - **Email:** rudy@ucf.edu
 - **Office:** Via Office (VAB-117a) Zoom; Monday 2:00 - 5:00 PM
-- **Course Meeting:** Monday 6:00 - 7:50 PM
+- **Course Meeting:** Monday 6:00 - 7:50 PM + Online (M-model, mediated course)
+- **Course Section:** 0M01 (#92536)
+- **Classroom Location:** TCH-116
   
 ---
 
@@ -17,13 +19,19 @@
 
 Texts & Technology work is situated on an understanding of "new" media mechanisms, which includes the underlying layer of code. Throughout the core Texts & Technology courses, we work to bridge the gaps of text, technology, and theory. In *Humanistic Data Analysis*, we will put this understanding into practice, building towards confidence and flexibility in using procedural tools and digital methods in humanities research. While there are many languages potential relevant to T&T and the digital humanities broadly, this course focuses on Python, which is currently one of the top choices for data analysis thanks to its tools (including Jupyter Notebooks, which we will employ) and flexibility.
 
-The main practical objective of this course is to provide graduate students with the necessary skills to utilize Python and associated tools for conducting research in the humanities. By the end of the course, students will be equipped with the knowledge and practical experience to analyze and interpret data within a humanistic context.
+The main practical objective of this course is to provide you with the necessary skills to utilize Python and associated tools for conducting research in the humanities. By the end of the course, you will be equipped with the knowledge and practical experience to analyze and interpret data within a humanistic context.
 
-With this goal in mind, the bulk of the course will be spent experimenting. While at first it may seem there is minimal "writing" in this course, Annette Vee's framework reminds us that code itself fits in the rubric of literacy, and through reading and writing code (and using it as a lens for seeing other "texts") we will build that procedural literacy. This may mean stepping out of our comfort zones in order to remix content, experiment with strategies, fail often, perservere, and ultimately create projects that are useful to our goals as digitally literate scholars operating in an ever-evolving technological landscape.
+With this goal in mind, the bulk of the course will be spent experimenting. While at first it may seem there is minimal "writing" in this course, Annette Vee's framework reminds us that code itself fits in the rubric of literacy, and through reading and writing code (and using it as a lens for seeing other "texts") we will build that procedural literacy. This may mean stepping out of our comfort zones. As we learn to build interactive programs and web pages in Python, we will remix content, make use of AI tools and other assistive software, experiment with strategies, fail often, revise our approach, spend significant amounts of time searching and researching, perservere, and ultimately create projects that are useful to our goals. This is what it means to be digitally literate scholars operating in an ever-evolving technological landscape.
 
 At the end of the course, we will put this knowledge into use through a larger project, building upon the exercises towards a potential future research application in an area of interest.
 
+## Course Structure
+
 Each week, plan on following instructions in the Webcourses module regarding readings and online exercises to accompany the in-class discussion. Each module will be divided into three sections:
+
+- **Weekly Readings and Lecture.** The full schedule of required readings is listed in the syllabus. Additional recommended readings will be provided in each module. Weekly lectures for this course will be pre-recorded and available online.
+- **In-Person Activities.** This course follows the flipped classroom approach: lectures are online, and each week's in-person meeting will involve a combination of hands-on design and coding exercises, lab collaboration time, and discussions focused on understanding and applying concepts from the readings. 
+- **Coding Exercises.** A weekly online assignment to build your skills in programming, debugging, and applying code solutions to research and design problems.
 
 ---
 
@@ -54,14 +62,6 @@ Each week, plan on following instructions in the Webcourses module regarding rea
 - Communicate research findings effectively through written reports and oral presentations.
 
 These learning outcomes aim to ensure that students acquire both the technical skills necessary for data analysis in the humanities and a strong understanding of the ethical considerations and research practices relevant to the field.
-
----
-
-## Course Structure
-
-- **Weekly Readings and Lecture.** The full schedule of required readings is listed in the syllabus: additional recommended readings will be provided in each module. Weekly lectures for this course will be pre-recorded and available online.
-- **In-Person Activities.** This course follows the flipped classroom approach: lectures are online, and each week's in-person meeting will involve a combination of hands-on design and coding exercises, lab collaboration time, and discussions focused on understanding and applying concepts from the readings. All activities will be documented and available online for those unable to attend
-- **Coding Exercises.** A weekly online assignment to build your skills in programming, debugging, and applying code solutions to research and design problems.
 
 ---
 
