@@ -23,25 +23,25 @@ Each week, plan on following instructions in the Webcourses module regarding rea
 
 ## Student Learning Objectives
 
-    1. Develop proficiency in Python programming and associated libraries/tools for data analysis in the humanities.
+1. Develop proficiency in Python programming and associated libraries/tools for data analysis in the humanities.
     
-    2. Apply data manipulation techniques to clean, preprocess, and transform diverse datasets commonly encountered in humanities research.
+2. Apply data manipulation techniques to clean, preprocess, and transform diverse datasets commonly encountered in humanities research.
     
-    3. Conduct exploratory data analysis to gain insights into patterns, trends, and distributions within humanities datasets.
+3. Conduct exploratory data analysis to gain insights into patterns, trends, and distributions within humanities datasets.
     
-    4. Employ text processing and natural language processing techniques to analyze and extract meaningful information from textual data in the humanities.
+4. Employ text processing and natural language processing techniques to analyze and extract meaningful information from textual data in the humanities.
     
-    5. Utilize web scraping and data collection methods to gather relevant data from online sources for humanities research.
+5. Utilize web scraping and data collection methods to gather relevant data from online sources for humanities research.
      
-    6. Learn about and apply appropriate programmatic techniques and/or algorithms unique to your individual research question(s) (e.g., geospatial analysis, network analysis, machine learning, topic modeling, time series analysis, text mining, etc.).
+6. Learn about and apply appropriate programmatic techniques and/or algorithms unique to your individual research question(s) (e.g., geospatial analysis, network analysis, machine learning, topic modeling, time series analysis, text mining, etc.).
         
-    7. Create visually appealing and informative data visualizations for communicating research findings in the humanities.
+7. Create visually appealing and informative data visualizations for communicating research findings in the humanities.
     
-    8. Demonstrate an understanding of ethical considerations and responsible practices in humanistic data analysis, including privacy, security, and data protection.
+8. Demonstrate an understanding of ethical considerations and responsible practices in humanistic data analysis, including privacy, security, and data protection.
     
-    9. Design and execute an independent research project that applies Python and associated tools to analyze and interpret data within a humanistic context.
+9. Design and execute an independent research project that applies Python and associated tools to analyze and interpret data within a humanistic context.
     
-    10. Communicate research findings effectively through written reports and oral presentations.
+10. Communicate research findings effectively through written reports and oral presentations.
 
 These learning outcomes aim to ensure that students acquire both the technical skills necessary for data analysis in the humanities and a strong understanding of the ethical considerations and research practices relevant to the field.
 
