@@ -9,38 +9,7 @@
 
 ## Contents
 
-- [DIG 6836: Humanistic Data Analysis](#dig-6836-design--development-of-texts-and-technology)
-  - [Contents](#contents)
-  - [Course Description](#course-description)
-  - [Course Objectives](#course-objectives)
-  - [Materials and Texts](#materials-and-texts)
-  - [Evaluation and Grading](#evaluation-and-grading)
-  - [Mixed Mode Course Structure](#mixed-mode-course-structure)
-  - [Weekly Schedule](#weekly-schedule)
-    - [Week One: Gearing Up (Monday, August 23, 2021)](#week-one-gearing-up-monday-august-23-2021)
-    - [Week Two: Data (Monday, August 30, 2021)](#week-two-data-monday-august-30-2021)
-    - [Week Three: Strings (Holiday - Online Module)](#week-three-strings-holiday---online-module)
-    - [Week Four: Metadata (Monday, September 13, 2021)](#week-four-metadata-monday-september-13-2021)
-    - [Week Five: Jupyter (Monday, September 20, 2021)](#week-five-jupyter-monday-september-20-2021)
-    - [Week Six: Data Structures (Monday, September 27, 2021)](#week-six-data-structures-monday-september-27-2021)
-    - [Week Seven: Vectors (Monday, October 4, 2021)](#week-seven-vectors-monday-october-4-2021)
-    - [Week Eight: Analysis (Monday, October 11, 2021)](#week-eight-analysis-monday-october-11-2021)
-    - [Week Nine: Numbers (Monday, October 18, 2021)](#week-nine-numbers-monday-october-18-2021)
-    - [Week Ten: Maps (Monday, October 25, 2021)](#week-ten-maps-monday-october-25-2021)
-    - [Week Eleven: Voices (Monday, November 1, 2021)](#week-eleven-voices-monday-november-1-2021)
-    - [Week Twelve: Models (Monday, November 8, 2021)](#week-twelve-models-monday-november-8-2021)
-    - [Week Thirteen: Good Enough (Monday, November 15, 2021)](#week-thirteen-good-enough-monday-november-15-2021)
-    - [Week Fourteen: Critiques (Monday, November 22, 2021)](#week-fourteen-critiques-monday-november-22-2021)
-    - [Week Fifteen: Design Futures (Monday, November 29, 2021)](#week-fifteen-design-futures-monday-november-29-2021)
-    - [Final Exam/Reflection (Monday, December 6, 2021)](#final-examreflection-monday-december-6-2021)
-  - [General Policies](#general-policies)
-    - [COVID-19 Statement for Fall 2023](#covid-19-statement-for-fall-2023)
-    - [Academic Integrity](#academic-integrity)
-    - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
-    - [Course Accessibility Statement](#course-accessibility-statement)
-    - [Campus Safety Statement](#campus-safety-statement)
-    - [Deployed Active Duty Military Students](#deployed-active-duty-military-students)
-    - [Authorized Events and Religious Observances](#authorized-events-and-religious-observances)
+
   
 ---
 
@@ -72,9 +41,8 @@ Each week, plan on following instructions in the Webcourses module regarding rea
 
 This course requires a mix of applied and theoretical readings, including some open access materials. The primary texts include:
 
-- Benjamin, Ruha. 2019. *Race After Technology: Abolitionist Tools for the New Jim Code.* John Wiley & Sons.
-- Drucker, Johanna. 2021. [*The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship.*](https://go.openathens.net/redirector/ucf.edu?url=https%3A%2F%2Fwww.taylorfrancis.com%2Fbooks%2Fmono%2F10.4324%2F9781003106531) Routledge. (This text is available as an unlimited access ebook through UCF library: follow the link and log in to download it.)
-- Karsdorp, Folgert, Mike Kestemont, and Allen Riddell. 2021. *Humanities Data Analysis: Case Studies with Python.* Princeton University Press.
+- Drucker, Johanna. 2023. [*The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship.*](https://go.openathens.net/redirector/ucf.edu?url=https%3A%2F%2Fwww.taylorfrancis.com%2Fbooks%2Fmono%2F10.4324%2F9781003106531) Routledge. (This text is available as an unlimited access ebook through UCF library: follow the link and log in to download it.)
+- Karsdorp, Folgert, Mike Kestemont, and Allen Riddell. 2023. *Humanities Data Analysis: Case Studies with Python.* Princeton University Press.
 
 Supplementary suggested readings are included in each module to guide additional exploration of programming methods and concepts explored.
 
@@ -84,9 +52,9 @@ Supplementary suggested readings are included in each module to guide additional
 
 | Points  | Assignment Summary | Due Date  |
 |---|---|---|
-| 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, August 27, 2021  |
-| 75  | **Coding Exercises** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. Students are encouraged to use screenshots from the works under discussion, and models will be provided for annotating and engaging through these visuals. | Weekly, One-Fifteen |
-| 20 | **Reflection** - During the final exam week, students will complete a written reflective essay on their journey, with particular consideration to next steps and potential future applications of programming tools introduced throughout the semester.  | Monday, December 6, 2021  |
+| 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, August 25, 2023  |
+| 75  | **Coding Exercises** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. Students are encouraged to use screenshots from the works under discussion, and models will be provided for annotating and engaging through these visuals. | Weekly, 11:59pm each Sunday |
+| 20 | **Reflection** - During the final exam week, students will complete a written reflective essay on their journey, with particular consideration to next steps and potential future applications of programming tools introduced throughout the semester.  | Monday, December 4, 2023  |
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
 
@@ -109,15 +77,15 @@ This course uses a mixed mode format, and relies upon students to complete all r
 
 ## Weekly Schedule
 
-### Week One: Gearing Up (Monday, August 23, 2021)
+### Week One: Gearing Up (Monday, August 21, 2023)
 
-We start the semester by configuring our systems for Python: we'll work through the installation process and get to know Python, PIP, Anaconda, Jupyter, Visual Code Studio, and Git as the tools we'll rely upon throughout the semester.
+We start the semester by configuring our systems for Python: we'll work through the installation process and get to know Python, Thonny, Google CoLab, and Git as the tools we'll rely upon throughout the semester.
 
 - *Digital Humanities Coursebook*: Chapter 1
 - **Due: Activity Verification (Friday August 27th)**
-- **Coding Exercise One: Configuration**
+- **Coding Exercise One: Python Pals**
 
-### Week Two: Data (Monday, August 30, 2021)
+### Week Two: Data (Monday, August 28, 2023)
 
 As we test out our configurations, we will explore the different types of data that T&T work can engage, as well as start to consider the practicalities of marking, cleaning, and using data.
 
@@ -135,7 +103,7 @@ We'll build our comfort with the language of programming through exploring build
 - *Digital Humanities Coursebook*: Chapter 3
 - **Coding Exercise Three: Strings**
 
-### Week Four: Metadata (Monday, September 13, 2021)
+### Week Four: Metadata (Monday, September 11, 2023)
 
 Through thinking about both the texts we engage and their metadata, markup, and descriptions, we'll engage both the pragmatic challenges of standards (XML, TEI, JSON, and so forth) and the research possibilities.
 
@@ -144,7 +112,7 @@ Through thinking about both the texts we engage and their metadata, markup, and 
 - *Digital Humanities Coursebook*: Chapter 4
 - **Coding Exercise Four: Counting**
   
-### Week Five: Jupyter (Monday, September 20, 2021)
+### Week Five: Jupyter (Monday, September 18, 2023)
 
 As we level up our methodologies, we'll start to explore the capacity of Jupyter Notebooks, with particular attention to how we can start to build reusable, structured methodologies for working in Python.
 
@@ -152,7 +120,7 @@ As we level up our methodologies, we'll start to explore the capacity of Jupyter
 - *Humanities Data Analysis*: Chapter 1
 - **Coding Exercise Five: Jupyter Configuration**
 
-### Week Six: Data Structures (Monday, September 27, 2021)
+### Week Six: Data Structures (Monday, September 25, 2023)
 
 Working with larger datasets requires more intentional structures: we'll explore databases and build our comfort with manipulating and parsing CSV, PDFs, JSON, XML, and HTML documents.
 
@@ -160,7 +128,7 @@ Working with larger datasets requires more intentional structures: we'll explore
 - *Digital Humanities Coursebook*: Chapter 5
 - **Coding Exercise Six: Structured Data**
   
-### Week Seven: Vectors (Monday, October 4, 2021)
+### Week Seven: Vectors (Monday, October 2, 2023)
 
 Through leveling up our text processing, we'll build our confidence in another data structure, arrays, while starting to think about visual as well as textual dimensions to exploring data.
 
@@ -168,7 +136,7 @@ Through leveling up our text processing, we'll build our confidence in another d
 - *Digital Humanities Coursebook*: Chapter 6
 - **Coding Exercise Seven: Initial Analysis**
 
-### Week Eight: Analysis (Monday, October 11, 2021)
+### Week Eight: Analysis (Monday, October 9, 2023)
 
 By starting to combine humanist theoretical lenses with our new technical methodologies, we'll engage in thoughtful critique of cultural data "mining" and its challenges.
 
@@ -176,14 +144,14 @@ By starting to combine humanist theoretical lenses with our new technical method
 - *Digital Humanities Coursebook*: Chapter 7
 - **Coding Exercise Eight: Cultural Analysis?**
 
-### Week Nine: Numbers (Monday, October 18, 2021)
+### Week Nine: Numbers (Monday, October 16, 2023)
 
 While the quantitative is rarely centered in Texts & Technology, some measurable datasets can have revealing numeric aspects. We'll explore methods for visualizing statistics and probability in humanities data.
 
 - *Humanities Data Analysis*: Chapter 5 and 6
 - **Coding Exercise Nine: Numbers**
 
-### Week Ten: Maps (Monday, October 25, 2021)
+### Week Ten: Maps (Monday, October 23, 2023)
 
 Drawing on models of GIS and spatial humanities, we'll explore the potential for data maps and plots across humanities datasets, thinking through both traditional and thematic approaches to mapping.
 
@@ -191,7 +159,7 @@ Drawing on models of GIS and spatial humanities, we'll explore the potential for
 - *Digital Humanities Coursebook*: Chapter 8
 - **Coding Exercise Ten: Mapping**
 
-### Week Eleven: Voices (Monday, November 1, 2021)
+### Week Eleven: Voices (Monday, October 30, 2023)
 
 While understandably subject to critique, computational methods for attributing authorship and finding patterns in writing styles have attracted a lot of attention. We'll explore these mechanisms, with attention to the theorizing of "voice."
 
@@ -199,7 +167,7 @@ While understandably subject to critique, computational methods for attributing 
 - *Digital Humanities Coursebook*: Chapter 9
 - **Coding Exercise Eleven: Principal Component Analysis**
   
-### Week Twelve: Models (Monday, November 8, 2021)
+### Week Twelve: Models (Monday, November 6, 2023)
 
 As we continue to critique and explore distant reading, we will engage with methods of topic modeling, and consider the potential and challenges of integrating these approaches alongside humanities approaches.
 
@@ -207,7 +175,7 @@ As we continue to critique and explore distant reading, we will engage with meth
 - *Digital Humanities Coursebook*: Chapter 10
 - **Coding Exercise Twelve: Texts, Three Ways**
 
-### Week Thirteen: Good Enough (Monday, November 15, 2021)
+### Week Thirteen: Good Enough (Monday, November 13, 2023)
 
 Drawing on the models and questions from our texts, we'll consider the approach of "good enough," and discuss how we can bring these lessons to our projects, particularly in terms of allowing for failure and iteration. We'll also explore methods for translating knowledge from Python to other programming languages.
 
@@ -215,21 +183,21 @@ Drawing on the models and questions from our texts, we'll consider the approach 
 - *Digital Humanities Coursebook*: Chapter 11
 - **Coding Exercise Thirteen: Interface**
 
-### Week Fourteen: Critiques (Monday, November 22, 2021)
+### Week Fourteen: Critiques (Monday, November 20, 2023)
 
 Using both *Race After Technology* and the work of other scholars from our core list, we will critique the methods we've put into place, considering how we might reshape and reimagine our technologies and code in light of these challenges.
 
 - *Digital Humanities Coursebook*: Chapter 12
 - **Coding Exercise Fourteen: Design**
 
-### Week Fifteen: Design Futures (Monday, November 29, 2021)
+### Week Fifteen: Design Futures (Monday, November 27, 2023)
 
 During the final project showcase, we will embrace both the successes and failures of the process of integrating Python-driven methods and tools into our scholarship, and brainstorm next steps.
 
 - *Digital Humanities Coursebook*: Coda
 - **Coding Exercise Fourteen Due**
 
-### Final Exam/Reflection (Monday, December 6, 2021)
+### Final Exam/Reflection (Monday, December 4, 2023)
 
 ---
 
