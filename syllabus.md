@@ -2,7 +2,7 @@
 
 - **Instructor:** Dr. Rudy McDaniel
 - **Email:** rudy@ucf.edu
-- **Office:** Via Zoom; Monday 2:00 - 5:00 PM
+- **Office:** Via Office (VAB-117a) Zoom; Monday 2:00 - 5:00 PM
 - **Course Meeting:** Monday 6:00 - 7:50 PM
   
 ---
