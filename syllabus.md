@@ -15,51 +15,53 @@
 
 ## Course Description
 
-Texts & Technology work is situated on an understanding of "new" media mechanisms, which includes the underlying layer of code. Throughout the core Texts & Technology courses, we work to bridge the gaps of text, technology, and theory. In *Humanistic Data Analysis*, we will put this understanding into practice, building towards confidence and flexibility in using procedural tools and digital methods in humanities research. While there are many languages potential relevant to T&T and the digital humanities broadly, this course focuses on Python, which is currently one of the top choices for data analysis thanks to its tools (including Anaconda and Jupyter Notebooks, which we will employ) and flexibility.
+Texts & Technology work is situated on an understanding of "new" media mechanisms, which includes the underlying layer of code. Throughout the core Texts & Technology courses, we work to bridge the gaps of text, technology, and theory. In *Humanistic Data Analysis*, we will put this understanding into practice, building towards confidence and flexibility in using procedural tools and digital methods in humanities research. While there are many languages potential relevant to T&T and the digital humanities broadly, this course focuses on Python, which is currently one of the top choices for data analysis thanks to its tools (including Jupyter Notebooks, which we will employ) and flexibility.
 
-The bulk of the course will be spent experimenting: while at first it may seem there is minimal "writing" in this course, Annette Vee's framework reminds us that code itself fits in the rubric of literacy, and through reading and writing code (and using it as a lens for seeing other "texts") we will build that procedural literacy. At the end of the course, we will put this knowledge into use through a larger project, building upon the exercises towards a potential future research application in an area of interest.
+The main practical objective of this course is to provide graduate students with the necessary skills to utilize Python and associated tools for conducting research in the humanities. By the end of the course, students will be equipped with the knowledge and practical experience to analyze and interpret data within a humanistic context.
+
+With this goal in mind, the bulk of the course will be spent experimenting. While at first it may seem there is minimal "writing" in this course, Annette Vee's framework reminds us that code itself fits in the rubric of literacy, and through reading and writing code (and using it as a lens for seeing other "texts") we will build that procedural literacy. This may mean stepping out of our comfort zones in order to remix content, experiment with strategies, fail often, perservere, and ultimately create projects that are useful to our goals as digitally literate scholars operating in an ever-evolving technological landscape.
+
+At the end of the course, we will put this knowledge into use through a larger project, building upon the exercises towards a potential future research application in an area of interest.
 
 Each week, plan on following instructions in the Webcourses module regarding readings and online exercises to accompany the in-class discussion. Each module will be divided into three sections:
 
+---
+
 ## Student Learning Objectives
 
-1. Develop proficiency in Python programming and associated libraries/tools for data analysis in the humanities.
+- Develop proficiency in Python programming and associated libraries/tools for data analysis in the humanities. This will include an understanding of programming, including basic terminology and the use of variables, functions, loops, libraries, and conditional statements.
+
+- Understand the installation, configuration, syntax, and debugging methods required for Python.
     
-2. Apply data manipulation techniques to clean, preprocess, and transform diverse datasets commonly encountered in humanities research.
+- Apply data manipulation techniques to clean, preprocess, and transform diverse datasets commonly encountered in humanities research.
     
-3. Conduct exploratory data analysis to gain insights into patterns, trends, and distributions within humanities datasets.
+- Conduct exploratory data analysis to gain insights into patterns, trends, and distributions within humanities datasets.
     
-4. Employ text processing and natural language processing techniques to analyze and extract meaningful information from textual data in the humanities.
+- Employ text processing and natural language processing techniques to analyze and extract meaningful information from textual data in the humanities.
     
-5. Utilize web scraping and data collection methods to gather relevant data from online sources for humanities research.
+- Utilize web scraping and data collection methods to gather relevant data from online sources for humanities research.
      
-6. Learn about and apply appropriate programmatic techniques and/or algorithms unique to your individual research question(s) (e.g., geospatial analysis, network analysis, machine learning, topic modeling, time series analysis, text mining, etc.).
+- Learn about and apply appropriate programmatic techniques and/or algorithms unique to your individual research question(s) (e.g., geospatial analysis, network analysis, machine learning, topic modeling, time series analysis, text mining, etc.).
         
-7. Create visually appealing and informative data visualizations for communicating research findings in the humanities.
+- Create visually appealing and informative data visualizations for communicating research findings in the humanities.
     
-8. Demonstrate an understanding of ethical considerations and responsible practices in humanistic data analysis, including privacy, security, and data protection.
+- Demonstrate an understanding of ethical considerations and responsible practices in humanistic data analysis, including privacy, security, and data protection.
+
+- Reflect upon the design of technology, with critical attention to its engagement with theoretical frameworks and the assumptions and dangers of algorithmic methods.
     
-9. Design and execute an independent research project that applies Python and associated tools to analyze and interpret data within a humanistic context.
+- Design and execute an independent research project that applies Python and associated tools to analyze and interpret data within a humanistic context.
     
-10. Communicate research findings effectively through written reports and oral presentations.
+- Communicate research findings effectively through written reports and oral presentations.
 
 These learning outcomes aim to ensure that students acquire both the technical skills necessary for data analysis in the humanities and a strong understanding of the ethical considerations and research practices relevant to the field.
+
+---
 
 ## Course Structure
 
 - **Weekly Readings and Lecture.** The full schedule of required readings is listed in the syllabus: additional recommended readings will be provided in each module. Weekly lectures for this course will be pre-recorded and available online.
 - **In-Person Activities.** This course follows the flipped classroom approach: lectures are online, and each week's in-person meeting will involve a combination of hands-on design and coding exercises, lab collaboration time, and discussions focused on understanding and applying concepts from the readings. All activities will be documented and available online for those unable to attend
 - **Coding Exercises.** A weekly online assignment to build your skills in programming, debugging, and applying code solutions to research and design problems.
-
----
-
-## Course Objectives
-
-- Develop an understanding of programming, including basic terminology and the use of variables, functions, loops, libraries, and conditional statements.
-- Understand the installation, configuration, syntax, and debugging methods required for Python.
-- Apply digital humanities methods such as textual analysis, visualization, mapping, modeling, and data manipulation to a variety of potential projects.
-- Conceptualize a project using Python to answer a research question appropriate to the student's goals and area of specialization.
-- Reflect upon the design of technology, with critical attention to its engagement with theoretical frameworks and the assumptions and dangers of algorithmic methods.
 
 ---
 
