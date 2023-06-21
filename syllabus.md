@@ -21,6 +21,32 @@ The bulk of the course will be spent experimenting: while at first it may seem t
 
 Each week, plan on following instructions in the Webcourses module regarding readings and online exercises to accompany the in-class discussion. Each module will be divided into three sections:
 
+## Student Learning Objectives
+
+    1. Develop proficiency in Python programming and associated libraries/tools for data analysis in the humanities.
+    
+    2. Apply data manipulation techniques to clean, preprocess, and transform diverse datasets commonly encountered in humanities research.
+    
+    3. Conduct exploratory data analysis to gain insights into patterns, trends, and distributions within humanities datasets.
+    
+    4. Employ text processing and natural language processing techniques to analyze and extract meaningful information from textual data in the humanities.
+    
+    5. Utilize web scraping and data collection methods to gather relevant data from online sources for humanities research.
+     
+    6. Learn about and apply appropriate programmatic techniques and/or algorithms unique to your individual research question(s) (e.g., geospatial analysis, network analysis, machine learning, topic modeling, time series analysis, text mining, etc.).
+        
+    7. Create visually appealing and informative data visualizations for communicating research findings in the humanities.
+    
+    8. Demonstrate an understanding of ethical considerations and responsible practices in humanistic data analysis, including privacy, security, and data protection.
+    
+    9. Design and execute an independent research project that applies Python and associated tools to analyze and interpret data within a humanistic context.
+    
+    10. Communicate research findings effectively through written reports and oral presentations.
+
+These learning outcomes aim to ensure that students acquire both the technical skills necessary for data analysis in the humanities and a strong understanding of the ethical considerations and research practices relevant to the field.
+
+## Course Structure
+
 - **Weekly Readings and Lecture.** The full schedule of required readings is listed in the syllabus: additional recommended readings will be provided in each module. Weekly lectures for this course will be pre-recorded and available online.
 - **In-Person Activities.** This course follows the flipped classroom approach: lectures are online, and each week's in-person meeting will involve a combination of hands-on design and coding exercises, lab collaboration time, and discussions focused on understanding and applying concepts from the readings. All activities will be documented and available online for those unable to attend
 - **Coding Exercises.** A weekly online assignment to build your skills in programming, debugging, and applying code solutions to research and design problems.
