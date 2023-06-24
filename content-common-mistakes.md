@@ -114,9 +114,7 @@ Here are ten common mistakes made by beginning Python programmers and how they c
    random_number = random.randint(1, 10)
    ```
 
-8. Infinite Loops: Forgetting to include an exit condition in
-
- a loop can lead to an infinite loop, causing the program to hang. Example:
+8. Infinite Loops: Forgetting to include an exit condition in a loop can lead to an infinite loop, causing the program to hang. Example:
 
    ```python
    # Infinite loop
