@@ -1,3 +1,5 @@
+# Common Mistakes in Python (And How to Fix Them)
+
 Here are ten common mistakes made by beginning Python programmers and how they can be reduced or fixed:
 
 1. Forgetting to Indent: Python relies on proper indentation to define code blocks. Forgetting to indent or using inconsistent indentation can lead to syntax errors. Here's an example:
