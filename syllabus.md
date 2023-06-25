@@ -11,7 +11,46 @@
 
 ## Contents
 
+<!-- TOC -->
 
+- [DIG 6836: Humanistic Data Analysis](#dig-6836-humanistic-data-analysis)
+    - [Contents](#contents)
+    - [Course Description](#course-description)
+    - [Course Structure](#course-structure)
+    - [Student Learning Objectives](#student-learning-objectives)
+    - [Materials and Texts](#materials-and-texts)
+        - [Required Texts](#required-texts)
+        - [Recommended Texts](#recommended-texts)
+        - [Other Readings](#other-readings)
+    - [Evaluation and Grading](#evaluation-and-grading)
+    - [Mixed Mode Course Structure](#mixed-mode-course-structure)
+    - [Weekly Schedule](#weekly-schedule)
+        - [Week One: Gearing Up Monday, August 21, 2023](#week-one-gearing-up-monday-august-21-2023)
+        - [Week Two: Data Monday, August 28, 2023](#week-two-data-monday-august-28-2023)
+        - [Week Three: Strings Holiday - Online Module](#week-three-strings-holiday---online-module)
+        - [Week Four: Metadata Monday, September 11, 2023](#week-four-metadata-monday-september-11-2023)
+        - [Week Five: Jupyter Monday, September 18, 2023](#week-five-jupyter-monday-september-18-2023)
+        - [Week Six: Data Structures Monday, September 25, 2023](#week-six-data-structures-monday-september-25-2023)
+        - [Week Seven: Vectors Monday, October 2, 2023](#week-seven-vectors-monday-october-2-2023)
+        - [Week Eight: Analysis Monday, October 9, 2023](#week-eight-analysis-monday-october-9-2023)
+        - [Week Nine: Numbers Monday, October 16, 2023](#week-nine-numbers-monday-october-16-2023)
+        - [Week Ten: Maps Monday, October 23, 2023](#week-ten-maps-monday-october-23-2023)
+        - [Week Eleven: Voices Monday, October 30, 2023](#week-eleven-voices-monday-october-30-2023)
+        - [Week Twelve: Models Monday, November 6, 2023](#week-twelve-models-monday-november-6-2023)
+        - [Week Thirteen: Good Enough Monday, November 13, 2023](#week-thirteen-good-enough-monday-november-13-2023)
+        - [Week Fourteen: Critiques Monday, November 20, 2023](#week-fourteen-critiques-monday-november-20-2023)
+        - [Week Fifteen: Design Futures Monday, November 27, 2023](#week-fifteen-design-futures-monday-november-27-2023)
+        - [Final Exam/Reflection Monday, December 4, 2023](#final-examreflection-monday-december-4-2023)
+    - [General Policies](#general-policies)
+        - [COVID-19 Statement for Fall 2023](#covid-19-statement-for-fall-2023)
+        - [Academic Integrity](#academic-integrity)
+        - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
+        - [Course Accessibility Statement](#course-accessibility-statement)
+        - [Campus Safety Statement](#campus-safety-statement)
+        - [Deployed Active Duty Military Students](#deployed-active-duty-military-students)
+        - [Authorized Events and Religious Observances](#authorized-events-and-religious-observances)
+
+<!-- /TOC -->
   
 ---
 
@@ -69,8 +108,26 @@ These learning outcomes aim to ensure that students acquire both the technical s
 
 This course requires a mix of applied and theoretical readings, including some open access materials. The primary texts include:
 
+### Required Texts
+
 - Drucker, Johanna. 2023. [*The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship.*](https://go.openathens.net/redirector/ucf.edu?url=https%3A%2F%2Fwww.taylorfrancis.com%2Fbooks%2Fmono%2F10.4324%2F9781003106531) Routledge. (This text is available as an unlimited access ebook through UCF library: follow the link and log in to download it.)
-- Karsdorp, Folgert, Mike Kestemont, and Allen Riddell. 2023. *Humanities Data Analysis: Case Studies with Python.* Princeton University Press.
+
+- Karsdorp, Folgert, Mike Kestemont, and Allen Riddell. 2023. *Humanities Data Analysis: Case Studies with Python.* Princeton University Press. (This text is also available as an open access book.)
+  - Web site: https://www.humanitiesdataanalysis.org 
+
+### Recommended Texts
+
+These two books are not required, but one or both will be a great reference text to supplement your learning of Python. If you can only choose one, either one will be fine. I will also be linking some of the video tutorials from Al Sweigart (second book below) throughout the class for supplemental reference.
+
+- Matthes, Eric. 2023. *Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming*. No Starch Press.
+  - ISBN-10: 1718502702
+  - Project source files: https://ehmatthes.github.io/pcc_3e/  
+
+- Sweigart, Al. 2019. *Automate the Boring Stuff with Python, 2nd Edition*. No Starch Press. 
+  - ISBN-10: 1593279922 
+  - Project web site: https://automatetheboringstuff.com/ 
+
+### Other Readings
 
 Supplementary suggested readings are included in each module to guide additional exploration of programming methods and concepts explored.
 
@@ -120,7 +177,7 @@ As we test out our configurations, we will explore the different types of data t
 - Turkel, William J. and Adam Krymble. [Code Reuse and Modularity in Python.](https://programminghistorian.org/en/lessons/code-reuse-and-modularity)
 - Turkel, William J. and Adam Krymble. [Downloading Web Pages in Python.](https://programminghistorian.org/en/lessons/working-with-web-pages)
 - *Digital Humanities Coursebook*: Chapter 2
-- **Coding Exercise Two: Web Content**
+- **Coding Exercise Two: Arts Website Scraper**
 
 ### Week Three: Strings (Holiday - Online Module)
 
@@ -129,7 +186,7 @@ We'll build our comfort with the language of programming through exploring build
 - Turkel, William J. and Adam Krymble. [Manipulating Strings in Python.](https://programminghistorian.org/en/lessons/manipulating-strings-in-python)
 - Turkel, William J. and Adam Krymble. [From HTML to List of Strings.](https://programminghistorian.org/en/lessons/from-html-to-list-of-words-1)
 - *Digital Humanities Coursebook*: Chapter 3
-- **Coding Exercise Three: Strings**
+- **Coding Exercise Three: Project Gutenberg Explorer**
 
 ### Week Four: Metadata (Monday, September 11, 2023)
 
