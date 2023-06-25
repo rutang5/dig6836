@@ -1,7 +1,3 @@
-layout: page
-title: "Course Syllabus"
-permalink: /syllabus.md
-
 # DIG 6836: Humanistic Data Analysis
 
 - **Instructor:** Dr. Rudy McDaniel
