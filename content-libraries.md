@@ -23,3 +23,15 @@ Here are the ten popular Python libraries for beginning programmers, along with 
 10. **Pygame**: Pygame is a library designed for game development and multimedia applications in Python. It provides functionality for handling graphics, sound, and user input, making it suitable for creating 2D games and interactive visualizations. Pygame is beginner-friendly and allows aspiring game developers to bring their ideas to life. [Pygame Documentation](https://www.pygame.org/docs/)
 
 These libraries cover various areas of Python programming and provide beginners with valuable tools and resources for tasks ranging from data manipulation, visualization, machine learning, web interactions, numerical algorithms, web scraping, deep learning, and game development.
+
+## Additional Library Resources
+
+Here are a few popular websites where you can discover additional Python libraries:
+
+1. **PyPI (Python Package Index)**: PyPI is the official repository for Python packages. You can explore thousands of Python libraries by visiting the PyPI website at [https://pypi.org/](https://pypi.org/).
+
+2. **Awesome Python**: Awesome Python is a curated list on GitHub that includes a wide range of Python libraries and resources. You can find the Awesome Python list at [https://awesome-python.com/](https://awesome-python.com/).
+
+3. **GitHub**: GitHub is a popular platform for hosting and sharing code repositories. You can search for Python libraries by using the GitHub search feature and exploring repositories tagged with "python" or related keywords. The GitHub website is [https://github.com/](https://github.com/).
+
+By exploring these resources, you can find numerous Python libraries developed by the community, covering diverse domains such as data analysis, natural language processing, computer vision, web development, and more.
