@@ -1,4 +1,4 @@
-## Assignment Title: Project Gutenberg Explorer
+# Project Gutenberg Explorer
 
 ### Assignment Description:
 In this assignment, you will embark on an adventure to explore the vast collection of literary works available at Project Gutenberg. You will learn how to open and read contents from external files in Python while uncovering interesting facts about famous books and authors. Get ready for a journey through words!
