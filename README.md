@@ -16,7 +16,7 @@ Current students should note that all course evaluation materials, including gra
 
 [Arts Website Scraper](assignment-arts-website-scraper)
 
-[Gutenberg](assignment-gutenberg)
+[Project Gutenberg Explorer](assignment-gutenberg)
 
 [Loops, Lists, Linguistics](assignment-loops-lists-linguistics)
 
