@@ -33,4 +33,6 @@ Current students should note that all course evaluation materials, including gra
 
 [Thonny Python IDE](https://thonny.org/)
 
+[Visual Studio Code, Insider's Build](https://code.visualstudio.com/docs/?dv=win&build=insiders)
+
 
