@@ -1,11 +1,34 @@
 # DIG6836: Humanistic Data Analysis
 
-# General Information
-[Syllabus](syllabus)
+Welcome to the public Github Pages site for DIG6836, Humanities Data Analysis, for the Fall 2023 semester. This course is taught by Dr. Rudy McDaniel at the University of Central Florida. General information about the class as well as links to specific class assignments are provided on this public page.
 
-[Webcourses Page](https://webcourses.ucf.edu/courses/1435073)
+Current students should note that all course evaluation materials, including grades, will be submitted through our official UCF Webcourses page, linked below.
 
-# Assignments
+## General Information
+[Class Syllabus](syllabus)
+
+[UCF Webcourses Page](https://webcourses.ucf.edu/courses/1435073)
+
+## Assignments
 [Python Pals](assignment-python-pals)
+
+[Clipboard Collage](assignment-clipboard-collage)
+
+[Arts Website Scraper](assignment-arts-website-scraper)
+
+[Gutenberg](assignment-gutenberg)
+
+[Loops, Lists, Linguistics](assignment-loops-lists-linguistics)
+
+[Spooky Escape Room](assignment-spooky-escape-room)
+
+## Useful Links
+[Google Co-Lab](https://colab.research.google.com/?utm_source=scs-index)
+
+[Markdown to HTML Converter](https://markdowntohtml.com/)
+
+[Programming Historian](https://programminghistorian.org/)
+
+[Thonny Python IDE](https://thonny.org/)
 
 
