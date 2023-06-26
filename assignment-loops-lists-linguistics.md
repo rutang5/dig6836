@@ -1,4 +1,4 @@
-# Assignment: Loops, Lists, and Linguistics
+# Loops, Lists, and Linguistics
 
 ## Objective
 The objective of this assignment is to reinforce your understanding of loops, lists, and their application in solving linguistic problems. You will write Python programs that manipulate lists of words and perform various linguistic tasks using loops and conditional statements.
