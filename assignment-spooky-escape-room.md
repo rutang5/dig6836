@@ -22,4 +22,4 @@ Design a simple, text-based escape room game using variables, loops, and conditi
 - Implement additional puzzle types, such as riddles or math problems.
 - Enhance the game with ASCII art, sound effects, or spooky ambiance.
 
-**Note:** Feel free to customize the assignment as per your requirements and add additional features to make it more engaging and challenging. Good luck, and have fun with your Spooky Escape Room game!
+**Note:** Feel free to add additional features to make it more engaging and challenging. Good luck, and have fun with your Spooky Escape Room game!
