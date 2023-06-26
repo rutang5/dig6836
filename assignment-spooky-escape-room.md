@@ -1,5 +1,3 @@
-Absolutely! Here's the assignment reformatted using Markdown:
-
 # Spooky Escape Room
 
 ## Objective
