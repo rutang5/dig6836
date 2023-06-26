@@ -1,4 +1,4 @@
-# Assignment: Clipboard Collage - The Nonsense Poetry Generator
+# Clipboard Collage - The Nonsense Poetry Generator
 
 ## Assignment Description
 
