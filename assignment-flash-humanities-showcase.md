@@ -1,4 +1,4 @@
-# Flask Humanities Showcase
+# Humanities Showcase
 
 ## Introduction
 In this assignment, you will explore the Flask library in Python and build a web application called "Flask Humanities Showcase." The application will highlight various aspects of humanities, such as literature, art, philosophy, or history. You will create multiple routes/pages, each representing a different aspect of the humanities, and showcase relevant content.
