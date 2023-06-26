@@ -22,8 +22,8 @@ Design a simple, text-based escape room game using variables, loops, and conditi
 
 **Note:** Feel free to add additional features to make it more engaging and challenging. Good luck, and have fun with your Spooky Escape Room game!
 
-# Stuck? Need Help Getting Started? 
-Try to develop a framework on your own first, but if you need a basic game loop structure to get you started, here is some Python code you can tinker with.
+## Stuck? Need Help Getting Started? 
+You should try to develop a framework on your own first, but if you need a basic game loop structure to get you started, here is some Python code you can tinker with to get the ball rolling on your spooky escape room experience. This is not the only way this could work, so try it on your own, first!
 
   ```
   def introduction():
