@@ -23,6 +23,8 @@ Current students should note that all course evaluation materials, including gra
 [Spooky Escape Room](assignment-spooky-escape-room)
 
 ## Useful Links
+[ChatGPT](https://openai.com/blog/chatgpt)
+
 [Google Co-Lab](https://colab.research.google.com/?utm_source=scs-index)
 
 [Markdown to HTML Converter](https://markdowntohtml.com/)
